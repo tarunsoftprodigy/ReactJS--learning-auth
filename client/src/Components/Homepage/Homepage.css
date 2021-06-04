@@ -1,0 +1,22 @@
+.homepage {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  padding: 40px 0;
+}
+
+.homepage h3 {
+  font-size: 32px;
+  line-height: 36px;
+  letter-spacing: 2px;
+  font-weight: 500;
+}
+
+.homepage button {
+  background: #000;
+  color: #fff;
+  padding: 10px 40px;
+  cursor: pointer;
+  border: 0;
+  border-radius: 3px;
+}
